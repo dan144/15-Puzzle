@@ -1,6 +1,6 @@
 # 15-Puzzle
 
-A [15-Puzzle](https://en.wikipedia.org/wiki/15_puzzle) is a simple game where the player must reorganize a scrambled picture into its original shape. However, this game comes with a twist: Stegonography.
+A [15-Puzzle](https://en.wikipedia.org/wiki/15_puzzle) is a simple game where the player must reorganize a scrambled picture into its original shape. However, this game comes with a twist: Steganography.
 
 [Steganography](https://en.wikipedia.org/wiki/Steganography) is a method of concealing information inside a seemingly innocuous piece of information. For example, a piece of text inside an image. This 15-Puzzle does this by rewriting the low order bits in the color imformation of the image. This allows the message to be stored with minimal, imperceptible visual changes to the image.
 
